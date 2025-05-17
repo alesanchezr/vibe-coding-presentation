@@ -21,7 +21,7 @@ Here are some of the slides:
 -- New Slide --
 
 <h1>I have launched more than 25 diferent companies</h1> 
-<h2></h2>In almost all of them I have been very actively coding and building the product with at least 1,000 hours of work on each.</h2>
+<h2>In almost all of them I have been very actively coding and building the product with at least 1,000 hours of work on each.</h2>
 ![IMG_0115](https://github.com/user-attachments/assets/9b9feb9c-d108-405e-8ae0-8038f9577c3f)
 
 -- New Slide --
@@ -32,7 +32,7 @@ Here are some of the slides:
 
 -- New Slide --
 
-<h1>If you want to learn more about 4Geeks.</h1>h1>
+<h1>If you want to learn more about 4Geeks.</h1>
 Right side:
 - Change your life with a bootcamp
 <img width="610" alt="change-your-life" src="https://github.com/user-attachments/assets/e7f8f894-b23f-4bcf-b61e-a5e9dc012f4f" />
