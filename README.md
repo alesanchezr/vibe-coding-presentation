@@ -8,13 +8,14 @@ Here are some of the slides:
 
 -- New Slide --
 
-<h1>My Name is Alejandro.</h1>h1>
+<h1>My Name is Alejandro.</h1>
 <h2>I'm a software developer with 25 years of experience and one of the most expert people you can find in vibe coding becasue I have 8 months of experience doint it. </h2>
 <ul>
   <li>Twitter: @alesanchezr</li>
   <li>Linkedin: @alesanchezr</li>
   <li>Github: @alesanchezr</li>
 </ul>
+
 ![alejandro](https://github.com/user-attachments/assets/1585d578-5020-4b6d-9c6b-a19bac79a8d9)
 
 
@@ -22,6 +23,7 @@ Here are some of the slides:
 
 <h1>I have launched more than 25 diferent companies</h1> 
 <h2>In almost all of them I have been very actively coding and building the product with at least 1,000 hours of work on each.</h2>
+
 ![IMG_0115](https://github.com/user-attachments/assets/9b9feb9c-d108-405e-8ae0-8038f9577c3f)
 
 -- New Slide --
@@ -84,11 +86,13 @@ Left side:
 
 <h1>IVoted.com</h1>
 <h2>it was based in SF and backed by one of the biggest entrepreneurs and it was an Audience Response System that took us 12 months to build. It was a very simple idea to create polls that can receive answers in real time in many different formats.</h2>
+
 ![CreatePoll](https://github.com/user-attachments/assets/b64c7b73-ae81-4873-9daa-57ad37caef2f)
 
 -- New Slide --
 
 <h1>Kahoot! Rings a bell?</h1>
+
 ![kahoot](https://github.com/user-attachments/assets/010c7c6c-265c-4716-8c2c-06b861cca845)
 
 -- New Slide --
