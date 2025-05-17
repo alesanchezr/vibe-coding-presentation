@@ -43,30 +43,69 @@ Left side:
 
 -- New Slide --
 
-Heading: I'm a super senior vibe coding with 8 months of experience.
+<h1>I'm a super senior vibe coder</h1>
+<h2>with 8 months of experience.</h2>
+<h2>I have not idea of what I am doing</h2>
 
 -- New Slide --
 
-One of the products I first launched was called IVoted.com, it was based in SF and backed by one of the biggest entrepreneurs and it was an Audience Response System that took us 12 months to build. It was a very simple idea to create polls that can receive answers in real time in many different formats.
+<h1>Lets talk about history</h1>
+<h2>Because that makes presentations very entretaining.</h2>
+
+-- New Slide --
+
+![thumb_andrej_karpathy](https://github.com/user-attachments/assets/ba7ac647-98cf-4b45-9809-a672209f5aa6)
+
+
+-- New Slide --
+
+<img width="602" alt="original-vibe-coding-x-post" src="https://github.com/user-attachments/assets/9244997e-72e8-4ca4-a790-a5e61bca6656" />
+<img width="557" alt="original-vibe-coding-post-qr-code" src="https://github.com/user-attachments/assets/8d61c6c3-8295-4cf3-b3fe-5bfbdeeab07e" />
+
+-- New Slide --
+
+<h1>Then @levelsio made US$100k build in 14 days</h1>
+<h2>Vibe-coded a multiplayer flight simulator fly.pitier.com</h2>
+<img width="531" alt="fly-pitier-dot-com" src="https://github.com/user-attachments/assets/d8791f19-32a2-41c4-911a-04b0d60a462a" />
+
+
+-- New Slide --
+
+<h1>1,000+ Participants</h1>
+<h2>Really spetacular vibe coded games</h2>
+<a href="https://jam.pieter.com/">Hackathon Website</a>
+
+-- New Slide --
+
+<h1>Back to me</h1>
+<h2>Because I love talking about myself</h2>
+
+-- New Slide --
+
+<h1>IVoted.com</h1>
+<h2>it was based in SF and backed by one of the biggest entrepreneurs and it was an Audience Response System that took us 12 months to build. It was a very simple idea to create polls that can receive answers in real time in many different formats.</h2>
 ![CreatePoll](https://github.com/user-attachments/assets/b64c7b73-ae81-4873-9daa-57ad37caef2f)
 
+-- New Slide --
+
+<h1>Kahoot! Rings a bell?</h1>
+![kahoot](https://github.com/user-attachments/assets/010c7c6c-265c-4716-8c2c-06b861cca845)
 
 -- New Slide --
 
-Add a slide with kahoot pricing: https://kahoot.com/business/pricing/
-As of 2023, Kahoot! reported trailing twelve-month (TTM) revenue of approximately $160 million
+<h1>As of 2023, Kahoot! reported trailing twelve-month (TTM) revenue of approximately $160 million</h1>
 
 -- New Slide --
 
-In 2023, Kahoot! was acquired by a consortium led by Goldman Sachs Asset Management for around $1.72 billion.
+<h1>In 2023, Kahoot! was acquired by a consortium led by Goldman Sachs Asset Management for around $1.72 billion.</h1>
 
 -- New Slide --
 
-Show we attempt to kill Kahoot today here.
+<h1>Show we attempt to kill Kahoot today here.</h1>
 
 -- New Slide --
 
-Heading: First attempt.
+<h1>First attempt.</h1>
 
 ```Speaker notes not to be includes in the slide
 I'm in the middle of a speaking presentation, create a lighweight poll app using a minimalistic UI that prompts me for a question, it allows my to enter multiple possible answer options and when I submit it  creates a link I can share with my audience to answer the question, it should also give me a QR code I can share with the audience. The app should be mobile first. Once people vote, they need to see the results immediately, in real time.
@@ -74,7 +113,25 @@ I'm in the middle of a speaking presentation, create a lighweight poll app using
 
 -- New Slide --
 
-Heading: In the mean time, let me stalk to you a little about vibe coding.
+<h1>In the mean time</h1>
+<h2>Vibe Coding stops being a meme</h2>
+<img width="804" alt="vibe-coding-meme" src="https://github.com/user-attachments/assets/914022dd-bcd0-452f-a9e1-31c567379ed3" />
+
+-- New Slide --
+
+<h1>There are already almost a hundre job positions about vibe coding</h1>
+<h2>Vibe Coding stops being a meme</h2>
+<img width="804" alt="vibe-coding-meme" src="https://github.com/user-attachments/assets/914022dd-bcd0-452f-a9e1-31c567379ed3" />
+
+-- New Slide --
+
+<h1>Vibe Coding Is becoming a real career</h1>
+<a href="https://www.vibecodecareers.com">Here are some real vibe coding jobs</a>
+
+-- New Slide --
+
+<img width="1112" alt="Screenshot 2025-05-17 at 12 37 12 PM" src="https://github.com/user-attachments/assets/db933326-1828-430f-b41d-cea3b2c3f33d" />
+<a href="https://www.visa.co.uk/en_gb/jobs/REF061638W">Link to VISA job posting</a>
 
 -- New Slide --
 
@@ -129,39 +186,59 @@ But what about security?
 
 -- New slide --
 
-If I have to give you one single advice to be a great vibe coder: PLAN
+<h1>If I have to give you one single advice to be a great vibe coder</h1> 
+
+-- New slide --
+
+<h1>PLAN</h1>
+![vibe-debugging](https://github.com/user-attachments/assets/b4414d1c-251f-4e7b-9364-14e8fc55ab80)
+
+-- New Slide --
+
+<h1>We are are starting to see the tools get specialized.</h1>
+![vibe-debugging](https://github.com/user-attachments/assets/fd5e6c90-3f87-4750-9e2e-afe9864442d7)
+
 
 
 -- New Slide --
 
-We are are starting to see the tools get specialized.
+<h1>Some try to be replace devs</h1>
 
-
-
-HeroUI
-Lovable
-v0
+- HeroUI
+- Lovable
+- v0
+- Replit
 
 -- New Slide --
 
-Winsurf
-Cursor
-Replit
+<h1>Some try to augment devs</h1>
 
+- Winsurf
+- Cursor
 
--- Marketing --
+-- New Slide --
 
-How I plan for marketing:
+<h1>How I plan for coding</h1>
+<h2>Demonstration</h2>
+
+-- New Slide --
+
+<h1>How I plan for marketing</h1>
 
 ```prompt
-Hello, I want to create a repository that will be used for generating marketing content for diferent purposes like social media posts on X
+Hello, I want to create a cursor coding project, that will be used for generating marketing content for diferent purposes like:
 
-Social media posts on linkedin
+- Social media posts on X
+- Social media posts on linkedin
+- Blog posts
+- Change log
 
-Blog posts
+Each social network has a different strategy, I want you to write a suggested a strategy for each of channels, save it as a cursor rule so we can automatically use it when writing posts for the respective channel.
 
-Change log
+Ideally I can be working on my product and as thoughts and ideas come to my mind I can tell you and you make on how to translate them into each of the channels, for example: Creating scheduling multiple x posts about that, wiring one long for post for LinkedIn in or including updates into the product changelog.
 
-I want to create a whole strategy for each of those channels that involves several goals on each channel
+I want it to be able to take screenshots of my computer when I tell it so, and attach them to the content being generated.
+
+Write an implementation plan first called "implementation.md"
 ```
 
