@@ -1,6 +1,10 @@
 # vibe-coding-presentation
 
-I in the middle of a live presentation and I forgot to make my powerpoint slides, I want you to make some slides for me that I can share a live link with my audience that they can open on their phones. The slides will all be in sync when I pass the slide. Here are some of the slides:
+I in the middle of a live presentation and I forgot to make my powerpoint slides, I want you to make some slides for me that I can share a live link with my audience that they can open on their phones. The slides will all be in sync in all the devices, we can use a socket, and I'm able to pass the slide for everyone. 
+Use the slide templates in this image to inspire and copy your own designs:
+![Ciri-Minimal-Cool-Powerpoint-Template-1024x682-581746520](https://github.com/user-attachments/assets/e84feab1-3505-4d9f-9a94-3d1e35d73b66)
+
+Here are some of the slides:
 
 -- New Slide --
 
@@ -55,3 +59,39 @@ Include the qr code and the phone number on the live results as well so I can ke
 Also make sure the keywords are displayed in the voting screen, and the phone number which is +18336090355
 
 -- New Slide --
+
+You have noticed that I'm speaking to my computer. I'm not typing. 
+Vibe coding = Agile, Vibing, Smooth
+
+-- New slide --
+
+https://vibemanifesto.org/
+
+-- New Slide --
+
+Modular VS Hand Made: Which of these two furniture is hand made?
+![46edf7be-ba88-47fb-8d87-a715efb49107 copy](https://github.com/user-attachments/assets/f3b316b3-6782-476e-9333-8af98f4f29b4)
+
+-- New Slide --
+
+Do you have hand-made furniture at home?
+Will AI-gen code reach ikea-quality ever?
+Is hand-made furniture still used? In which use cases?
+
+![46edf7be-ba88-47fb-8d87-a715efb49107](https://github.com/user-attachments/assets/361a1f28-80b9-474a-b64b-6a84f2e1f146)
+
+
+-- New Slide --
+
+
+-- New Slide --
+
+We are are starting to see the tools get specialized.
+
+HeroUI
+Lovable
+v0
+
+Winsurf
+Cursor
+Replit
