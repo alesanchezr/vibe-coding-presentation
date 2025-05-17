@@ -8,26 +8,31 @@ Here are some of the slides:
 
 -- New Slide --
 
-Heading: My Name is Alejandro.
-Subtopic: I'm a software developer with 25 years of experience and one of the most expert people you can find in vibe coding becasue I have 8 months of experience doint it. 
-Add twitter, github and linkedin handle for people to follow.
+<h1>My Name is Alejandro.</h1>h1>
+<h2>I'm a software developer with 25 years of experience and one of the most expert people you can find in vibe coding becasue I have 8 months of experience doint it. </h2>
+<ul>
+  <li>Twitter: @alesanchezr</li>
+  <li>Linkedin: @alesanchezr</li>
+  <li>Github: @alesanchezr</li>
+</ul>
 ![alejandro](https://github.com/user-attachments/assets/1585d578-5020-4b6d-9c6b-a19bac79a8d9)
 
 
 -- New Slide --
 
-I have launched more than 25 diferent companies, in almost all of them I have been very actively coding and building the product with at least 1,000 hours of work on each. ![IMG_0115](https://github.com/user-attachments/assets/9b9feb9c-d108-405e-8ae0-8038f9577c3f)
+<h1>I have launched more than 25 diferent companies</h1> 
+<h2></h2>In almost all of them I have been very actively coding and building the product with at least 1,000 hours of work on each.</h2>
+![IMG_0115](https://github.com/user-attachments/assets/9b9feb9c-d108-405e-8ae0-8038f9577c3f)
 
 -- New Slide --
 
-Heading: My biggest success today is 4Geeks Academy.
-Subheading: A globally recognized coding bootcamp with 7000 new software devs graduated and 40,000 students in self paced.
+<h1>My biggest success today is 4Geeks Academy.</h1>
+<h2>A globally recognized coding bootcamp with 7000 new software devs graduated and 40,000 students in self paced.</h2>
 <img width="795" alt="Screenshot 2025-05-17 at 11 35 39 AM" src="https://github.com/user-attachments/assets/5eda6fab-ab38-469e-b2eb-bf44483d65aa" />
 
 -- New Slide --
 
-Heading: If you want to learn more about 4Geeks.
-
+<h1>If you want to learn more about 4Geeks.</h1>h1>
 Right side:
 - Change your life with a bootcamp
 <img width="610" alt="change-your-life" src="https://github.com/user-attachments/assets/e7f8f894-b23f-4bcf-b61e-a5e9dc012f4f" />
