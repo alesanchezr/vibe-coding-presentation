@@ -8,7 +8,9 @@ Here are some of the slides:
 
 -- New Slide --
 
-My Name is Alejandro, I'm a software developer with 25 years of experience and one of the most expert people you can find in vibe coding becasue I have 8 months of experience doint it. 
+Heading: My Name is Alejandro.
+Subtopic: I'm a software developer with 25 years of experience and one of the most expert people you can find in vibe coding becasue I have 8 months of experience doint it. 
+Add twitter, github and linkedin handle for people to follow.
 ![alejandro](https://github.com/user-attachments/assets/1585d578-5020-4b6d-9c6b-a19bac79a8d9)
 
 
@@ -18,7 +20,29 @@ I have launched more than 25 diferent companies, in almost all of them I have be
 
 -- New Slide --
 
-One of the products I first launched was called IVoted.com, it was based in SF and backed by one of the biggest entrepreneurs and it was an Audience Response System that took us 6 months to build. It was a very simple idea to create polls that can receive answers in real time.
+Heading: My biggest success today is 4Geeks Academy.
+Subheading: A globally recognized coding bootcamp with 7000 new software devs graduated and 40,000 students in self paced.
+<img width="795" alt="Screenshot 2025-05-17 at 11 35 39 AM" src="https://github.com/user-attachments/assets/5eda6fab-ab38-469e-b2eb-bf44483d65aa" />
+
+-- New Slide --
+
+Heading: If you want to learn more about 4Geeks.
+
+Right side:
+- Change your life with a bootcamp
+<img width="610" alt="change-your-life" src="https://github.com/user-attachments/assets/e7f8f894-b23f-4bcf-b61e-a5e9dc012f4f" />
+
+Left side:
+- Gain new skills at your own pace
+<img width="609" alt="at-your-won-pace" src="https://github.com/user-attachments/assets/d1331143-012c-4c71-a294-18cb8414af68" />
+
+-- New Slide --
+
+Heading: I'm a super senior vibe coding with 8 months of experience.
+
+-- New Slide --
+
+One of the products I first launched was called IVoted.com, it was based in SF and backed by one of the biggest entrepreneurs and it was an Audience Response System that took us 12 months to build. It was a very simple idea to create polls that can receive answers in real time in many different formats.
 ![CreatePoll](https://github.com/user-attachments/assets/b64c7b73-ae81-4873-9daa-57ad37caef2f)
 
 
@@ -33,15 +57,28 @@ In 2023, Kahoot! was acquired by a consortium led by Goldman Sachs Asset Managem
 
 -- New Slide --
 
-We are going to kill Kahoot today here.
+Show we attempt to kill Kahoot today here.
 
 -- New Slide --
 
-First attempt.
+Heading: First attempt.
 
 ```Speaker notes not to be includes in the slide
 I'm in the middle of a speaking presentation, create a lighweight poll app using a minimalistic UI that prompts me for a question, it allows my to enter multiple possible answer options and when I submit it  creates a link I can share with my audience to answer the question, it should also give me a QR code I can share with the audience. The app should be mobile first. Once people vote, they need to see the results immediately, in real time.
 ```
+
+-- New Slide --
+
+Heading: In the mean time, let me stalk to you a little about vibe coding.
+
+-- New Slide --
+
+Heading: 2 hours of prompting lead me to this image. 
+
+![168b8867-fe04-4fff-b0fc-f26915bbf0b0](https://github.com/user-attachments/assets/9af7a468-2355-4bf6-ba60-cebcf35246f6)
+
+This is the caption for the image: `This Baroque-style painting portrays the Vibe Coder as a divine figure radiating light, standing atop tangled network cables and scattered money, symbolizing both connection and reward. He is revered by marketers, investors, and users who surround him with adoration, while demonic forces like a hacker, a monstrous bug, and the procrastination demon Belphegor loom in the shadows. Above, glowing clouds hint at AI and server power, elevating coding to an act of modern divinity.`
+
 
 -- New Slide --
 
@@ -83,15 +120,43 @@ Is hand-made furniture still used? In which use cases?
 
 -- New Slide --
 
+But what about security?
+
+-- New slide --
+
+If I have to give you one single advice to be a great vibe coder: PLAN
+
 
 -- New Slide --
 
 We are are starting to see the tools get specialized.
 
+
+
 HeroUI
 Lovable
 v0
 
+-- New Slide --
+
 Winsurf
 Cursor
 Replit
+
+
+-- Marketing --
+
+How I plan for marketing:
+
+```prompt
+Hello, I want to create a repository that will be used for generating marketing content for diferent purposes like social media posts on X
+
+Social media posts on linkedin
+
+Blog posts
+
+Change log
+
+I want to create a whole strategy for each of those channels that involves several goals on each channel
+```
+
